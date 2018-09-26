@@ -41,6 +41,9 @@ github:
   repository: rashidobaidi.tk
 # Footer logo will disappear if not set.
 #logo: assets/img/me.png
+instagram:
+  username: mehdisadeghii
+  
 
 exclude:
 - scripts
