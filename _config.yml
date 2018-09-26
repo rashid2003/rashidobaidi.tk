@@ -35,14 +35,13 @@ comment_system: static # or disqus. Default is no comments.
 
 lang: fa_IR
 twitter:
-  username: mehdisadeghii
+  username: rahid_obaidi
 github:
   username: rashid2003
   repository: rashidobaidi.tk
 # Footer logo will disappear if not set.
 #logo: assets/img/me.png
-instagram:
-  username: mehdisadeghii
+
   
 
 exclude:
