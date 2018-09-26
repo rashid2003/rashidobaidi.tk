@@ -1,7 +1,7 @@
 ---
-title: python -m this
+title: به نام خدا
 tags: ذن zen
-uuid: 0b64d07f-6c08-475b-a509-463df5458039
+uuid: 0b64d07f-6c78-475b-a469-463df5458039
 category: ذن
 ---
 کوان‌های ذن پایتون.
