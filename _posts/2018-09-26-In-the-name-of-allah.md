@@ -1,8 +1,8 @@
 ---
 title: ای نام تو بهترین سرآغاز
-tags: ذن zen
+tags: من شروع
 uuid: in-the-name-of-allah
-category: ذن
+category: شروع
 ---
 
 >  ای نام تو بهترین سرآغاز  &nbsp;&nbsp;&nbsp;  بی نام تو نامه کی کنم باز    
