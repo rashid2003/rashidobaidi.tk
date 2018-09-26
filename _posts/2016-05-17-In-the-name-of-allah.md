@@ -1,5 +1,5 @@
 ---
-title: به نام خدا
+title: ای نام تو بهترین سرآغاز
 tags: ذن zen
 uuid: 0b64d07f-6c78-475b-a469-463df5458039
 category: ذن
