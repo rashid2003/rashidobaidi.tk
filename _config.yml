@@ -14,9 +14,9 @@ long_description: >
   اینجا سکوی انتشار مطالبی در مورد دانش تولید نرم‌افزار و ایده‌ها و علایق شخصی‌ام است،
   بویژه راه‌حل‌های مهندسی که باعث رشد و پیشرفتم شده است و می‌تواند مورد استفاده دیگران هم قرار بگیرد.
 
-favicon: assets/img/favicon.png
+favicon: assets/img/31435017.jpg
 permalink: :title.html
-timezone: Europe/Berlin
+timezone: Asia/Malaysia
 
 paginate: 3
 paginate_path: /page:num/
@@ -31,7 +31,7 @@ collections:
 comment_system: static # or disqus. Default is no comments.
 #disqus_shortname: mehdix
 #google_analytics_id: UA-57282325-1
-feedburner_id: REPLACE_WITH_YOUR_FEEDBURNER_ID
+feedburner_id: u6l03j4cptf6bqnu3chb6bcins
 
 lang: fa_IR
 twitter:
